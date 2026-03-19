@@ -1,0 +1,32 @@
+{
+  "name": "Aoki Design Studio Works Finder",
+  "short_name": "ADS Works",
+  "description": "制作実績の検索・比較・相談準備までをつなぐアーカイブUI。",
+  "lang": "ja",
+  "id": "/works-finder/",
+  "start_url": "/works-finder/",
+  "scope": "/works-finder/",
+  "display": "standalone",
+  "background_color": "#0d1116",
+  "theme_color": "#0d1116",
+  "icons": [
+    {
+      "src": "./assets/images/meta/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/images/meta/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/images/meta/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
