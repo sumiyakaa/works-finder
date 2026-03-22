@@ -408,4 +408,38 @@ export const works: Work[] = [
     siteUrl: 'https://okiaoki.github.io/BistroAoki/',
     isConcept: false,
   },
+
+  // -------------------------------------------------------------------------
+  // work-12: Aoki Gym
+  // -------------------------------------------------------------------------
+  {
+    id: 'work-12',
+    title: 'Aoki Gym',
+    slug: 'aoki-gym',
+    ...createWorkImageSet('aoki-gym', 'jpg', false, true),
+    genre: 'フィットネス・ヘルスケア',
+    siteType: 'LP',
+    purpose: '集客・体験予約',
+    summary:
+      'パーソナルジムの集客LP。ビフォーアフター比較スライダー・3種のプログラム紹介・トレーナープロフィール・料金表・予約CTAを1ページに集約し、体験予約への導線を設計。',
+    pageCount: 1,
+    scale: null,
+    features: ['アニメーション', 'フォーム', 'ビフォーアフター', 'CTA設計'],
+    techTags: ['JavaScript'],
+    techStack: ['HTML', 'CSS', 'JavaScript'],
+    budgetRange: '¥150,000〜250,000',
+    durationRange: null,
+    tags: ['ジムLP', 'ビフォーアフター', 'プログラム紹介', 'トレーナー紹介', 'CTA設計', 'スクロールアニメーション'],
+    year: 2026,
+    isFeatured: false,
+    hasCms: false,
+    hasAnimation: true,
+    hasForm: true,
+    challenge:
+      'ビフォーアフター比較・プログラム詳細・料金表など情報量の多いコンテンツを1ページに集約しつつ、CTAへの自然な導線を維持した。',
+    designTone: 'ダーク / パワフル',
+    detailUrl: null,
+    siteUrl: 'https://okiaoki.github.io/AokiGym/',
+    isConcept: false,
+  },
 ]
