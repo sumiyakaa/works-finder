@@ -442,4 +442,38 @@ export const works: Work[] = [
     siteUrl: 'https://okiaoki.github.io/AokiGym/',
     isConcept: false,
   },
+
+  // -------------------------------------------------------------------------
+  // work-14: Aoki Tax Office
+  // -------------------------------------------------------------------------
+  {
+    id: 'work-14',
+    title: 'Aoki Tax Office',
+    slug: 'aoki-tax-office',
+    ...createWorkImageSet('aoki-tax-office', 'jpg', false, true),
+    genre: '士業・専門サービス',
+    siteType: 'コーポレートサイト',
+    purpose: 'リード獲得',
+    summary:
+      '紺×白×金の王道トーンに、全幅レイアウトとマーキー演出で情報密度と格式を両立した個人税理士事務所の3ページサイト。',
+    pageCount: 3,
+    scale: null,
+    features: ['アニメーション', 'フォーム', 'FAQ', 'パララックス', 'マーキー'],
+    techTags: ['JavaScript'],
+    techStack: ['HTML', 'CSS', 'JavaScript'],
+    budgetRange: '¥250,000〜400,000',
+    durationRange: null,
+    tags: ['士業サイト', 'マルチページ', 'パララックス', 'マーキー', 'フォームUI', 'エディトリアルデザイン'],
+    year: 2026,
+    isFeatured: true,
+    hasCms: false,
+    hasAnimation: true,
+    hasForm: true,
+    challenge:
+      '堅実な士業の信頼感を保ちつつ、全幅レイアウト・マーキー・エディトリアル型実績表現で情報密度とデザイン差別化を両立させた。',
+    designTone: 'フォーマル / エレガント',
+    detailUrl: null,
+    siteUrl: 'https://okiaoki.github.io/AokiTax/',
+    isConcept: false,
+  },
 ]
