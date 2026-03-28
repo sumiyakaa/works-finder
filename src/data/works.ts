@@ -476,4 +476,38 @@ export const works: Work[] = [
     siteUrl: 'https://okiaoki.github.io/AokiTax/',
     isConcept: false,
   },
+
+  // -------------------------------------------------------------------------
+  // work-14: Aoki Beauty Clinic No2
+  // -------------------------------------------------------------------------
+  {
+    id: 'work-14',
+    title: 'Aoki Beauty Clinic No2',
+    slug: 'aoki-beauty-clinic-no2',
+    ...createWorkImageSet('aoki-beauty-clinic-no2', 'jpg', false, true),
+    genre: '美容・クリニック',
+    siteType: 'マルチページサイト',
+    purpose: 'ブランディング・集客',
+    summary:
+      '美容クリニックの総合サイト。施術カテゴリ別メニュー・症例フィルタリング・医師紹介・院内ギャラリーなど全12ページを日英中3言語で展開し、WordPress移行を前提とした設計で構築。',
+    pageCount: 36,
+    scale: null,
+    features: ['多言語対応', '症例フィルタリング', 'アニメーション', 'フォーム', '予約導線', '計測連携', '構造化データ'],
+    techTags: ['JavaScript'],
+    techStack: ['HTML', 'CSS', 'JavaScript'],
+    budgetRange: '¥500,000〜750,000',
+    durationRange: null,
+    tags: ['多言語サイト（JA/EN/ZH）', 'マルチページ（36P）', '症例フィルタリング', 'WordPress移行前提', 'hreflang', 'コンバージョン設計'],
+    year: 2026,
+    isFeatured: true,
+    hasCms: false,
+    hasAnimation: true,
+    hasForm: true,
+    challenge:
+      '12ページ×3言語の大規模構成を、WordPress移行を見据えた保守性の高い設計で統一しつつ、症例フィルタリングや多言語SEOなど機能面も両立させた。',
+    designTone: 'ダーク / ラグジュアリー',
+    detailUrl: null,
+    siteUrl: 'https://okiaoki.github.io/Aoki-BeautyClinic-No2/ja/',
+    isConcept: false,
+  },
 ]

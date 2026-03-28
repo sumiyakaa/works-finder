@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc -b && vite build && cp dist/index.html dist/404.html",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@rolldown/binding-linux-x64-gnu": "^1.0.0-rc.10",
