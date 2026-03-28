@@ -510,4 +510,38 @@ export const works: Work[] = [
     siteUrl: 'https://okiaoki.github.io/Aoki-BeautyClinic-No2/ja/',
     isConcept: false,
   },
+
+  // -------------------------------------------------------------------------
+  // work-15: Aoki Reform
+  // -------------------------------------------------------------------------
+  {
+    id: 'work-15',
+    title: 'Aoki Reform',
+    slug: 'aoki-reform',
+    ...createWorkImageSet('aoki-reform', 'jpg', false, true),
+    genre: '建築・リフォーム',
+    siteType: 'コーポレートサイト',
+    purpose: '集客・問い合わせ',
+    summary:
+      '地域密着型リフォーム会社の全13ページサイト。手書き書体と自然素材カラーで温かみを演出し、リアルタイム見積シミュレーター・施工事例フィルター・ビフォーアフターフリップカード・パララックスなど多彩なJS機能を実装。',
+    pageCount: 13,
+    scale: null,
+    features: ['アニメーション', 'フォーム', '見積シミュレーター', '施工事例フィルター', 'ビフォーアフターUI', 'パララックス', 'FAQ'],
+    techTags: ['JavaScript'],
+    techStack: ['HTML', 'CSS', 'JavaScript'],
+    budgetRange: '¥600,000〜900,000',
+    durationRange: null,
+    tags: ['リフォーム会社', 'マルチページ（13P）', '見積シミュレーター', '施工事例フィルター', 'ビフォーアフターUI', 'パララックス', 'アクセシビリティ'],
+    year: 2026,
+    isFeatured: true,
+    hasCms: false,
+    hasAnimation: true,
+    hasForm: true,
+    challenge:
+      '手書き書体×自然素材トーンの温かみあるデザインを全13ページで統一しつつ、見積シミュレーター・施工事例フィルター・ビフォーアフターUIなど実用的なJS機能を多数実装した。',
+    designTone: 'ウォーム / ナチュラル',
+    detailUrl: null,
+    siteUrl: 'https://okiaoki.github.io/Aoki-Reform/',
+    isConcept: false,
+  },
 ]
