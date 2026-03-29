@@ -44,7 +44,7 @@ export function ConsultationSection({ onOpenContactForm }: ConsultationSectionPr
             <div className="contact-section__links">
               <a
                 className="contact-section__icon-link"
-                href="https://x.com/okiaoki74"
+                href="https://x.com/sumiyakaaa"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Xを開く"

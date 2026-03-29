@@ -26,7 +26,7 @@ export function Footer() {
             <p className="site-footer__social-label">公式</p>
             <div className="site-footer__social-links">
               <a
-                href="https://x.com/okiaoki74"
+                href="https://x.com/sumiyakaaa"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="X"
