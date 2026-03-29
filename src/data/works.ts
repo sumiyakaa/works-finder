@@ -544,4 +544,38 @@ export const works: Work[] = [
     siteUrl: 'https://okiaoki.github.io/Aoki-Reform/',
     isConcept: false,
   },
+
+  // -------------------------------------------------------------------------
+  // work-16: Aoki Atelier
+  // -------------------------------------------------------------------------
+  {
+    id: 'work-16',
+    title: 'Aoki Atelier',
+    slug: 'aoki-atelier',
+    ...createWorkImageSet('aoki-atelier', 'jpg', false, true),
+    genre: 'ファッション・ライフスタイル',
+    siteType: 'ブランドサイト',
+    purpose: 'ブランド訴求・販路開拓',
+    summary:
+      'ハンドメイドジュエリーブランドのポートフォリオサイト。ダーク×ゴールドの配色にGSAP ScrollTriggerによるパララックス・フェードアップ・横スクロールを全セクションに実装し、WebP二重対応・prefers-reduced-motion・ARIA属性など品質面も徹底。',
+    pageCount: 5,
+    scale: null,
+    features: ['アニメーション', 'パララックス', '横スクロール', 'コレクションフィルター', '動画背景'],
+    techTags: ['JavaScript', 'GSAP'],
+    techStack: ['HTML', 'CSS', 'JavaScript', 'GSAP', 'ScrollTrigger'],
+    budgetRange: '¥250,000〜400,000',
+    durationRange: null,
+    tags: ['ジュエリーブランド', 'ダークUI', 'GSAP ScrollTrigger', 'パララックス', '横スクロール', 'WebP最適化', 'アクセシビリティ'],
+    year: 2026,
+    isFeatured: true,
+    hasCms: false,
+    hasAnimation: true,
+    hasForm: true,
+    challenge:
+      '全セクションにGSAP ScrollTriggerのアニメーションを実装しながら、prefers-reduced-motion対応やARIA属性など品質・アクセシビリティ基準を両立させた。',
+    designTone: 'ダークミニマル / ラグジュアリー',
+    detailUrl: null,
+    siteUrl: 'https://okiaoki.github.io/Aoki-Atelier/',
+    isConcept: false,
+  },
 ]
