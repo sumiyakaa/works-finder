@@ -9,7 +9,7 @@ export function Footer() {
             <a href="#" className="site-footer__logo-link">
               <img
                 src={`${import.meta.env.BASE_URL}assets/images/meta/logo-white.png`}
-                alt="Aoki Design Studio"
+                alt="AKASHIKI"
                 className="site-footer__logo-img"
                 width={120}
                 height={80}
@@ -36,7 +36,7 @@ export function Footer() {
                 </svg>
               </a>
               <a
-                href="https://github.com/Okiaoki"
+                href="https://github.com/sumiyakaa"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="GitHub"
@@ -50,7 +50,7 @@ export function Footer() {
         </div>
 
         <div className="site-footer__bottom">
-          <p className="site-footer__copy">&copy; {year} Aoki Design Studio</p>
+          <p className="site-footer__copy">&copy; {year} AKASHIKI</p>
         </div>
       </div>
     </footer>

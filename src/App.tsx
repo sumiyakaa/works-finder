@@ -461,7 +461,7 @@ function App() {
             <img
               className="site-header__logo"
               src={`${import.meta.env.BASE_URL}assets/images/meta/logo-white.png`}
-              alt="Aoki Design Studio"
+              alt="AKASHIKI"
             />
           </a>
           <button

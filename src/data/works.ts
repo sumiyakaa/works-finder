@@ -269,7 +269,7 @@ export const works: Work[] = [
       '高級感あるビジュアルとサロン向けB2B情報（料金プラン・導入実績）を両立し、WordPressテーマとして管理画面からの更新にも対応した。',
     designTone: 'ラグジュアリー / エレガント',
     detailUrl: null,
-    siteUrl: 'https://github.com/Okiaoki/aokicosmetic-wp',
+    siteUrl: 'https://github.com/sumiyakaa/aokicosmetic-wp',
     isConcept: false,
   },
 

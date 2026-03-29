@@ -56,7 +56,7 @@ export function ConsultationSection({ onOpenContactForm }: ConsultationSectionPr
               </a>
               <a
                 className="contact-section__icon-link"
-                href="https://github.com/Okiaoki"
+                href="https://github.com/sumiyakaa"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="GitHubを開く"

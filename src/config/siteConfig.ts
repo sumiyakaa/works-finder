@@ -1,7 +1,7 @@
 export const CONSULTATION_TARGET = Object.freeze({
   baseUrl: './index.html',
   hash: '#contact-brief',
-  source: 'aoki-design-studio-works-finder',
+  source: 'akashiki-works-finder',
   defaultSortOrder: 'recommended',
   queryKeys: Object.freeze({
     intent: 'intent',

@@ -89,7 +89,7 @@ export const buildConsultationPayload = (
 }
 
 export const buildConsultationSummary = (payload: ConsultationPayload): string => {
-  const lines = ['Aoki Design Studio Works Finder 閲覧メモ', '']
+  const lines = ['AKASHIKI Works Finder 閲覧メモ', '']
 
   if (payload.searchQuery) {
     lines.push(`検索語: ${payload.searchQuery}`)
