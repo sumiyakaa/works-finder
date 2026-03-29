@@ -65,7 +65,7 @@ export const works: Work[] = [
       '施術メニュー・症例・料金・FAQを1ページに整理しつつ、電話予約とWeb予約の2導線を両立させた。',
     designTone: 'クリーン / ライトラグジュアリー',
     detailUrl: './projects/aoki-beauty-clinic/',
-    siteUrl: 'https://okiaoki.github.io/Aoki-BeautyClinic/',
+    siteUrl: 'https://sumiyakaa.github.io/Aoki-BeautyClinic/',
     isConcept: false,
   },
 
@@ -99,7 +99,7 @@ export const works: Work[] = [
       '冒頭のSVG回転演出と多層レイヤーの画像リビールをバニラJSで実装し、ECページまで離脱しにくい流れに整えた。',
     designTone: 'シネマティック / ラグジュアリー',
     detailUrl: null,
-    siteUrl: 'https://okiaoki.github.io/lp-aoki-standard/',
+    siteUrl: 'https://sumiyakaa.github.io/lp-aoki-standard/',
     isConcept: false,
   },
 
@@ -133,7 +133,7 @@ export const works: Work[] = [
       '制作・EC・Webアプリの3領域を個別のケーススタディで掘り下げつつ、初見でも相談内容を想像しやすい構成に整えた。',
     designTone: 'シャープ / テック',
     detailUrl: './projects/aoki-tech-studio/',
-    siteUrl: 'https://okiaoki.github.io/Aoki-Tech-Studio/',
+    siteUrl: 'https://sumiyakaa.github.io/Aoki-Tech-Studio/',
     isConcept: false,
   },
 
@@ -167,7 +167,7 @@ export const works: Work[] = [
       'ダークトーンとゴールドのアクセントで静かな店内の雰囲気を伝えながら、メニュー閲覧・予約・SNS連携を自然につないだ。',
     designTone: 'ダーク / クラシック',
     detailUrl: null,
-    siteUrl: 'https://okiaoki.github.io/cafe-aoki/',
+    siteUrl: 'https://sumiyakaa.github.io/cafe-aoki/',
     isConcept: false,
   },
 
@@ -201,7 +201,7 @@ export const works: Work[] = [
       '費用感の可視化で終わらせず、比較保存・共有・相談フォーム連携までを切れ目なくつなぐ体験にまとめた。',
     designTone: 'ダーク / プロダクト',
     detailUrl: './projects/aoki-estimate-simulator/',
-    siteUrl: 'https://okiaoki.github.io/Aoki-Mitumori/',
+    siteUrl: 'https://sumiyakaa.github.io/Aoki-Mitumori/',
     isConcept: false,
   },
 
@@ -235,7 +235,7 @@ export const works: Work[] = [
       '12枚の商品ビジュアルと複数CTAを配置しつつ押し売り感を抑え、モバイルではフローティングCTAがフォーム到達時に自動非表示になる導線を設計した。',
     designTone: 'プレミアム / コンバージョン',
     detailUrl: null,
-    siteUrl: 'https://okiaoki.github.io/aoki-lotion-lp/',
+    siteUrl: 'https://sumiyakaa.github.io/aoki-lotion-lp/',
     isConcept: false,
   },
 
@@ -303,7 +303,7 @@ export const works: Work[] = [
       'キッズ・ママ・パパ3プランの情報を整理しつつ、講師紹介・料金表・体験予約を自然な流れでつなぎ、家族全員が安心して申し込める導線を設計した。',
     designTone: 'ウォーム / フレンドリー',
     detailUrl: null,
-    siteUrl: 'https://okiaoki.github.io/aoki-family-english/',
+    siteUrl: 'https://sumiyakaa.github.io/aoki-family-english/',
     isConcept: false,
   },
 
@@ -337,7 +337,7 @@ export const works: Work[] = [
       '作品5件の個別詳細・サービス案内・採用・ニュースなど12ページの情報量を整理し、ファンタジックな世界観を保ったまま企業サイトとしての実用性を両立させた。',
     designTone: 'クリエイティブ / ファンタジック',
     detailUrl: null,
-    siteUrl: 'https://okiaoki.github.io/Aoki-Animation/',
+    siteUrl: 'https://sumiyakaa.github.io/Aoki-Animation/',
     isConcept: false,
   },
 
@@ -371,7 +371,7 @@ export const works: Work[] = [
       '賃貸・売買合計6物件のデータ属性ベースのフィルタリング・並び替え、ECサイト風のギャラリーUI（矢印ナビ・スワイプ・モーダル）、3ステップフォームなど多数のVanilla JS機能を実装しつつ、全16ページのデザイン統一性とWCAG AAコントラスト準拠を両立させた。',
     designTone: 'モダンナチュラル / アースカラー',
     detailUrl: null,
-    siteUrl: 'https://okiaoki.github.io/AokiEstate/',
+    siteUrl: 'https://sumiyakaa.github.io/AokiEstate/',
     isConcept: false,
   },
 
@@ -405,7 +405,7 @@ export const works: Work[] = [
       'ダークトーンで統一した高級感のあるビジュアルと、料理写真12枚のギャラリー・予約フォームを組み合わせ、世界観を崩さずに来店導線を確保した。',
     designTone: 'ダーク / エレガント',
     detailUrl: null,
-    siteUrl: 'https://okiaoki.github.io/BistroAoki/',
+    siteUrl: 'https://sumiyakaa.github.io/BistroAoki/',
     isConcept: false,
   },
 
@@ -439,7 +439,7 @@ export const works: Work[] = [
       'ビフォーアフター比較・プログラム詳細・料金表など情報量の多いコンテンツを1ページに集約しつつ、CTAへの自然な導線を維持した。',
     designTone: 'ダーク / パワフル',
     detailUrl: null,
-    siteUrl: 'https://okiaoki.github.io/AokiGym/',
+    siteUrl: 'https://sumiyakaa.github.io/AokiGym/',
     isConcept: false,
   },
 
@@ -473,7 +473,7 @@ export const works: Work[] = [
       '堅実な士業の信頼感を保ちつつ、全幅レイアウト・マーキー・エディトリアル型実績表現で情報密度とデザイン差別化を両立させた。',
     designTone: 'フォーマル / エレガント',
     detailUrl: null,
-    siteUrl: 'https://okiaoki.github.io/AokiTax/',
+    siteUrl: 'https://sumiyakaa.github.io/AokiTax/',
     isConcept: false,
   },
 
@@ -507,7 +507,7 @@ export const works: Work[] = [
       '12ページ×3言語の大規模構成を、WordPress移行を見据えた保守性の高い設計で統一しつつ、症例フィルタリングや多言語SEOなど機能面も両立させた。',
     designTone: 'ダーク / ラグジュアリー',
     detailUrl: null,
-    siteUrl: 'https://okiaoki.github.io/Aoki-BeautyClinic-No2/ja/',
+    siteUrl: 'https://sumiyakaa.github.io/Aoki-BeautyClinic-No2/ja/',
     isConcept: false,
   },
 
@@ -541,7 +541,7 @@ export const works: Work[] = [
       '手書き書体×自然素材トーンの温かみあるデザインを全13ページで統一しつつ、見積シミュレーター・施工事例フィルター・ビフォーアフターUIなど実用的なJS機能を多数実装した。',
     designTone: 'ウォーム / ナチュラル',
     detailUrl: null,
-    siteUrl: 'https://okiaoki.github.io/Aoki-Reform/',
+    siteUrl: 'https://sumiyakaa.github.io/Aoki-Reform/',
     isConcept: false,
   },
 
@@ -575,7 +575,7 @@ export const works: Work[] = [
       '全セクションにGSAP ScrollTriggerのアニメーションを実装しながら、prefers-reduced-motion対応やARIA属性など品質・アクセシビリティ基準を両立させた。',
     designTone: 'ダークミニマル / ラグジュアリー',
     detailUrl: null,
-    siteUrl: 'https://okiaoki.github.io/Aoki-Atelier/',
+    siteUrl: 'https://sumiyakaa.github.io/Aoki-Atelier/',
     isConcept: false,
   },
 ]
