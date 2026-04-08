@@ -28,6 +28,7 @@ export function Header({ onOpenContactForm }: HeaderProps) {
               src={`${import.meta.env.BASE_URL}assets/images/meta/logo-white.png`}
               alt="AKASHIKI"
             />
+            <span className="site-header__brand">AKASHIKI</span>
           </Link>
         </div>
 
